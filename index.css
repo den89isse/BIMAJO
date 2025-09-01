@@ -1,0 +1,28 @@
+
+body{
+    background-color: rgb(216, 216, 190);
+}
+
+
+
+.cursiva {  
+  font-family: "Style Script", cursive;
+  font-weight: 500;
+  font-style: normal;
+}
+
+
+.imgMujeryHombreSkincare{
+    width: 300px;
+    height: 300px;
+    clip-path: circle();
+    
+ 
+}
+
+.parrafo{
+    text-align: justify;
+    text-indent: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+

@@ -1,0 +1,22 @@
+
+body{
+    background-color: rgb(216, 216, 190);
+}
+
+.card:hover{
+    box-shadow: 2px 5px 10px 5px rgb(230, 172, 48);
+}
+
+.texto{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', "Geneva", Verdana, sans-serif;
+    text-align: justify;
+}
+
+
+.divfinal{
+        background-color: rgb(240, 213, 145);
+    border: 3px solid rgb(214, 179, 91);
+
+}
+
+
